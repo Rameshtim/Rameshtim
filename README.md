@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 **I’m currently working on** :  [ft_transcendence](https://github.com/Rameshtim/ft_transcendence)<br>🏫 **Studying** : Fachinformatiker - Anwendungsentwicklung and Core - Curriculum in 42 Berlin<br>🌱 **I’m currently learning** : How to use AI models that can call functions and improve their ability to understand and respond in real-time conversations.<br>💬 **Ask me about** : Particle Physics and Bits
+🛠 **I’m currently working on** :  [42_Friend](https://github.com/Rameshtim/42_Friend/)<br>🏫 **Studying** : Fachinformatiker - Anwendungsentwicklung and Core - Curriculum in 42 Berlin<br>🌱 **I’m currently learning** : How to use AI models that can call functions and improve their ability to understand and respond in real-time conversations.<br>💬 **Ask me about** : Particle Physics and Bits
 
 
 ## 🌐 Socials:
